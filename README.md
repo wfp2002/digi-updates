@@ -6,6 +6,6 @@ sudo su
 
 crontab -e (vai pedir o editor padrao escolher nano) - opcao 1
 
-*/5 * * * * /home/wfp2002/reconnect-wifi.sh
+*/5 * * * * /home/wfp2002/./reconnect-wifi.sh
 
 sudo reboot
