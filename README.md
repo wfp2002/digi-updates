@@ -1,4 +1,4 @@
-wget https://github.com/wfp2002/digi-updates/blob/main/reconnect-wifi.sh
+wget https://raw.githubusercontent.com/wfp2002/digi-updates/main/reconnect-wifi.sh
 
 chmod +x reconnect-wifi.sh
 
