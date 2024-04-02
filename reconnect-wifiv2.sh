@@ -7,6 +7,7 @@ while true ; do
       echo "Sem conexao tentando reconectar."
       ifup --force wlan0
       sleep 10
-      /usr/bin/tmux send-Keys C-c
+      /usr/bin/tmux send-keys C-c
+      sleep 5
    fi
 done
