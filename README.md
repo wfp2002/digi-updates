@@ -19,6 +19,8 @@ wget https://github.com/wfp2002/digi-updates/raw/main/ws
 
 chmod +x ws
 
+Arquivos ws39 para python3.9 e arquivo ws311 para python3.11
+
 Para funcionar o envio de dados via socket para o novo server aprsbr precisa instalar o pacote websockets no rasp.
 
 pip install websockets --break-system-packages
